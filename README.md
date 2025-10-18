@@ -1,4 +1,4 @@
-**Advertencia:** Este proyecto es solo para fines educativos y solo registra lo que escribas dentro de este programa. NO captura teclas fuera del terminal ni actúa como keylogger de sistema. Úsalo únicamente en entornos controlados y con consentimiento explícito.
+**Advertencia:** Este proyecto es solo para fines educativos.
 
 ## Cómo ejecutar el proyecto
 1. Crea y activa un entorno virtual (Windows PowerShell):
