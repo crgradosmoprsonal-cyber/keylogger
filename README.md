@@ -1,11 +1,11 @@
 ## Cómo ejecutar el proyecto
-## Crea y activa un entorno virtual
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1
-## Instala las dependencias
-   pip install -r requirements.txt
-## Ejecuta el script
-   python main.py
+# Crea y activa un entorno virtual
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+# Instala las dependencias
+pip install -r requirements.txt
+# Ejecuta el script
+python main.py
 Verás el mensaje:
 Presiona ESC para salir.
 Ejemplo de salida (keylog.txt): 
