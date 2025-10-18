@@ -20,6 +20,13 @@ pip install -r requirements.txt
 python main.py
 ```
 Verás el mensaje:
-<img width="594" height="40" alt="image" src="https://github.com/user-attachments/assets/925a8999-8f59-403e-975e-a7f5dd3789ea" />
-Ejemplo de salida (keylog.txt)
-<img width="428" height="185" alt="image" src="https://github.com/user-attachments/assets/6d62fe73-3a6e-44e5-abe4-1d6a556bd8df" />
+
+<p align="center">
+  <img width="594" height="40" alt="image" src="https://github.com/user-attachments/assets/925a8999-8f59-403e-975e-a7f5dd3789ea" />
+</p>
+
+Ejemplo de salida (keylog.txt):
+
+<p align="center">
+  <img width="428" height="185" alt="image" src="https://github.com/user-attachments/assets/6d62fe73-3a6e-44e5-abe4-1d6a556bd8df" />
+</p>
