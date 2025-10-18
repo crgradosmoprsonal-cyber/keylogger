@@ -28,5 +28,6 @@ Verás el mensaje:
 Ejemplo de salida (keylog.txt):
 
 <p align="center">
-  <img width="428" height="185" alt="image" src="https://github.com/user-attachments/assets/6d62fe73-3a6e-44e5-abe4-1d6a556bd8df" />
+  <img width="359" height="142" alt="image" src="https://github.com/user-attachments/assets/315c16ad-df23-458c-8510-5319f42cdc3e" />
+
 </p>
